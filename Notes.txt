@@ -1,0 +1,10 @@
+Named tuples: https://docs.python.org/3/library/collections.html#collections.namedtuple
+Ou structure
+Mieux que d'indexer dans tuple sans nommer
+
+mypy pour verifier type
+
+Tuto python sous VSCode : https://code.visualstudio.com/docs/python/python-tutorial
+
+
+
