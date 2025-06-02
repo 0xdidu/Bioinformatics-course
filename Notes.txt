@@ -6,5 +6,20 @@ mypy pour verifier type
 
 Tuto python sous VSCode : https://code.visualstudio.com/docs/python/python-tutorial
 
+-----
 
+pathlib : gestion du systeme de fichiers en python
+__file__: fichier courant
+from pathlib import Path
+Path(__file__).resolve(), etc-> permet d'être relatif dans projet actuel
 
+pdm: gestionnaire de packages
+
+Pas de - dans les noms de dossiers et de fichiers !!! _
+
+Pour importer facilement, creer un projet python avant de dev. Soit a la main soit par exemple avec pdm init. 
+
+Installer mypy pour verifier typage
+
+raise Exception("error message")
+raise ValueError("error message")
