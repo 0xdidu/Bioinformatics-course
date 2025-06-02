@@ -1,0 +1,8 @@
+import module5
+
+# Question 1 - Title: Finding Regulatory Motifs in DNA
+
+# Question 2 - MEME - meme-suite.org
+# Indicate the starting positions of the substrings of length 20 identified by MEME.
+
+# Question 3 - http://weblogo.threeplusone.com
